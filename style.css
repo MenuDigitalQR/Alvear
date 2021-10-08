@@ -13,6 +13,9 @@ body{
   }
   
   body{
+    background-image: url("fotos/Fondo3.jpg");
+    background-position: center center;
+    background-size: 83vh;
   }
   #boton{
     height: 7.5vh; 
